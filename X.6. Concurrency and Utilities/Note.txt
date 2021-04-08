@@ -1,0 +1,2 @@
+Test.txt is intended for exercise 5.
+I changed the condition of task 2 in order to examine thread synchronization.

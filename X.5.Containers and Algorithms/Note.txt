@@ -1,0 +1,2 @@
+Program from exercise 9 creates integers.txt file. 
+You can use it for exercise 10.
